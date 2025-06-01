@@ -1,5 +1,5 @@
 -- ==========================================================
--- Project:     Wallmart Black Friday Sale Analysis
+-- Project:     Walmart Black Friday Sale Analysis
 -- File:        create_and_load_dim_tables.sql
 -- Purpose:     Define schema and load dimension tables
 -- Environment: Google BigQuery + Google Cloud Storage
