@@ -16,7 +16,7 @@ This project simulates real-time sales and inventory transactions, ingests data 
   - Cloud Storage
 - Python (Data Generator)
 - Looker Studio (Dashboard)
-- 
+
 
 ## Architecture
 
